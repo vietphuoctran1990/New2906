@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Cờ E-ink</string>
+
+    <string name="title_main">Chọn loại cờ</string>
+    <string name="game_chess">Cờ vua</string>
+    <string name="game_xiangqi">Cờ tướng</string>
+    <string name="game_go">Cờ vây</string>
+
+    <string name="level">Độ khó</string>
+    <string name="level_easy">Dễ</string>
+    <string name="level_medium">Vừa</string>
+    <string name="level_hard">Khó</string>
+
+    <string name="board_size">Cỡ bàn</string>
+
+    <string name="btn_new">Ván mới</string>
+    <string name="btn_undo">Đi lại</string>
+    <string name="btn_pass">Bỏ lượt</string>
+    <string name="btn_refresh">Làm mới</string>
+    <string name="btn_level">Độ khó</string>
+
+    <string name="your_turn">Lượt của bạn</string>
+    <string name="ai_thinking">Máy đang nghĩ…</string>
+</resources>
